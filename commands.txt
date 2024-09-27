@@ -1,0 +1,5 @@
+streamlit
+streamlit-extras
+pyrebase
+firebase-admin
+plotly
